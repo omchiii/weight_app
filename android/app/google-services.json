@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "880685306600",
+    "project_id": "weight-9ee43",
+    "storage_bucket": "weight-9ee43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880685306600:android:2437556377afec72d66f5d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_weight_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880685306600-djcgcror1n9vuu52cghtarapt82hjvpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYhxm9bXjnkpf5jESrJxwn9N21YKRJ-38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880685306600-djcgcror1n9vuu52cghtarapt82hjvpr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880685306600-g2omorpi5jvsibklr65gpmtubttcr0ic.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.omchiii.flutterWeightApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
